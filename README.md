@@ -1,2 +1,0 @@
-# ConnectStoreToReactComponent
-Created with CodeSandbox
